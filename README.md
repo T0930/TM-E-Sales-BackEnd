@@ -14,6 +14,6 @@
 ![Preview](will update)
 
 # Video and Repository Links:
-[TM-E-Sales-Backend-Repo](https://github.com/T0930/TM-E-Sales-BackEnd)
+[TM-E-Sales-Backend-Repo](https://github.com/T0930/TM-E-Sales-BackEnd/blob/main/images/ecomm.png?raw=true)
 #
 [TM-E-Sales-Backend-Walthrough Video](https://vimeo.com/manage/videos/669680190)
